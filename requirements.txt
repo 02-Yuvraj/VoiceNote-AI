@@ -1,0 +1,4 @@
+
+streamlit
+sarvamai
+python-dotenv
